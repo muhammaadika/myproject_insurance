@@ -10,9 +10,7 @@ python-dotenv==1.2.1
 Werkzeug==3.1.3
 
 flask-compress
-flask_compress
 flask-limiter
-flask_limiter
 
 scikit-learn
 pandas
@@ -27,6 +25,7 @@ seaborn
 # Optional: if your project uses excel input
 
 openpyxl
+
 
 
 
